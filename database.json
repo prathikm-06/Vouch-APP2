@@ -1,0 +1,2332 @@
+{
+  "brands": [
+    {
+      "id": "b1",
+      "brand_name": "Apple",
+      "credibility_score": 97,
+      "transparency_score": 92,
+      "website": "https://www.apple.com/in",
+      "verified": true,
+      "years_in_business": 48,
+      "warranty_policy": "1 Year Global Limited Warranty + AppleCare option available.",
+      "customer_service_score": 95,
+      "transparency_rating": "A+",
+      "value_for_money": 78,
+      "advantages": [
+        "Unrivaled build quality",
+        "Ecosystem synchronization",
+        "Excellent long-term software support"
+      ],
+      "disadvantages": [
+        "Very expensive accessories",
+        "Hard to repair independently",
+        "Premium entry cost"
+      ],
+      "trusted_circle_activity": {
+        "friends": 6,
+        "purchased": 12,
+        "mentors": 3,
+        "experts": 5
+      },
+      "trusted_circle_score": 95,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 94
+        },
+        {
+          "year": 2025,
+          "score": 96
+        },
+        {
+          "year": 2026,
+          "score": 97
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 94,
+        "repurchase": 92,
+        "promises": 96
+      },
+      "insights": "Apple's score has improved following their public commitment to Right to Repair and expanding transparent service logs in India.",
+      "weight_breakdown": {
+        "verification": 98,
+        "sat": 94,
+        "transparency": 92,
+        "consistency": 96,
+        "community": 95,
+        "maturity": 98,
+        "circle": 95
+      },
+      "associated_products": [
+        "smartphones",
+        "smartwatches",
+        "headphone",
+        "laptops"
+      ]
+    },
+    {
+      "id": "b2",
+      "brand_name": "Samsung",
+      "credibility_score": 93,
+      "transparency_score": 88,
+      "website": "https://www.samsung.com/in",
+      "verified": true,
+      "years_in_business": 86,
+      "warranty_policy": "1 Year Brand Warranty + 10 Years on Digital Inverter compressor/motor.",
+      "customer_service_score": 91,
+      "transparency_rating": "A",
+      "value_for_money": 86,
+      "advantages": [
+        "Vast product portfolio",
+        "Leading displays technology",
+        "Excellent home services setup"
+      ],
+      "disadvantages": [
+        "Inconsistent updates on entry devices",
+        "Exynos chip performance variations"
+      ],
+      "trusted_circle_activity": {
+        "friends": 14,
+        "purchased": 28,
+        "mentors": 5,
+        "experts": 9
+      },
+      "trusted_circle_score": 91,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 90
+        },
+        {
+          "year": 2025,
+          "score": 91
+        },
+        {
+          "year": 2026,
+          "score": 93
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 91,
+        "repurchase": 88,
+        "promises": 92
+      },
+      "insights": "Samsung's trust score rose to 93 due to solid long-term parts warranties on washers and refrigerators, combined with responsive onsite service guides.",
+      "weight_breakdown": {
+        "verification": 95,
+        "sat": 91,
+        "transparency": 88,
+        "consistency": 92,
+        "community": 90,
+        "maturity": 96,
+        "circle": 91
+      },
+      "associated_products": [
+        "smartphones",
+        "smart TVs",
+        "Refrigerators",
+        "washing machines",
+        "air conditioners"
+      ]
+    },
+    {
+      "id": "b3",
+      "brand_name": "Sony",
+      "credibility_score": 95,
+      "transparency_score": 85,
+      "website": "https://www.sony.co.in",
+      "verified": true,
+      "years_in_business": 78,
+      "warranty_policy": "1 Year Domestic Warranty for electronics. Additional panel warranties for TVs.",
+      "customer_service_score": 89,
+      "transparency_rating": "A",
+      "value_for_money": 80,
+      "advantages": [
+        "Industry-leading audio tuning",
+        "Elite display processor algorithms",
+        "Extremely durable hardware"
+      ],
+      "disadvantages": [
+        "Higher cost premium",
+        "Complex settings menu"
+      ],
+      "trusted_circle_activity": {
+        "friends": 8,
+        "purchased": 15,
+        "mentors": 4,
+        "experts": 11
+      },
+      "trusted_circle_score": 92,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 93
+        },
+        {
+          "year": 2025,
+          "score": 94
+        },
+        {
+          "year": 2026,
+          "score": 95
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 95,
+        "repurchase": 91,
+        "promises": 94
+      },
+      "insights": "Sony continues to dominate expert scores by delivering premium acoustic technology and highly consistent TV panel lifespans.",
+      "weight_breakdown": {
+        "verification": 96,
+        "sat": 89,
+        "transparency": 85,
+        "consistency": 94,
+        "community": 92,
+        "maturity": 95,
+        "circle": 92
+      },
+      "associated_products": [
+        "smart TVs",
+        "headphone"
+      ]
+    },
+    {
+      "id": "b4",
+      "brand_name": "OnePlus",
+      "credibility_score": 88,
+      "transparency_score": 84,
+      "website": "https://www.oneplus.in",
+      "verified": true,
+      "years_in_business": 11,
+      "warranty_policy": "1 Year Standard Local Warranty covering manufacturing defects.",
+      "customer_service_score": 85,
+      "transparency_rating": "B+",
+      "value_for_money": 85,
+      "advantages": [
+        "Super-fast device charging",
+        "Sleek software experiences",
+        "Excellent screen refresh technology"
+      ],
+      "disadvantages": [
+        "Occasional software updates bugs",
+        "Cameras are good but behind Apple/Samsung"
+      ],
+      "trusted_circle_activity": {
+        "friends": 5,
+        "purchased": 10,
+        "mentors": 2,
+        "experts": 4
+      },
+      "trusted_circle_score": 84,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 85
+        },
+        {
+          "year": 2025,
+          "score": 86
+        },
+        {
+          "year": 2026,
+          "score": 88
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 86,
+        "repurchase": 84,
+        "promises": 85
+      },
+      "insights": "OnePlus's score stabilized at 88 as fast local repair vouchers and warranty centers improved turnaround speeds in key metros.",
+      "weight_breakdown": {
+        "verification": 90,
+        "sat": 85,
+        "transparency": 84,
+        "consistency": 86,
+        "community": 85,
+        "maturity": 80,
+        "circle": 84
+      },
+      "associated_products": [
+        "smartphones",
+        "smart TVs",
+        "headphone"
+      ]
+    },
+    {
+      "id": "b5",
+      "brand_name": "boAt",
+      "credibility_score": 84,
+      "transparency_score": 80,
+      "website": "https://www.boat-lifestyle.com",
+      "verified": true,
+      "years_in_business": 10,
+      "warranty_policy": "1 Year Replacement Warranty. Return pick-up from home available.",
+      "customer_service_score": 82,
+      "transparency_rating": "B",
+      "value_for_money": 92,
+      "advantages": [
+        "Highly economic price point",
+        "Punchy heavy bass tuning",
+        "Fun customized designs"
+      ],
+      "disadvantages": [
+        "Average structural plastics",
+        "Susceptible to quick wear and tear"
+      ],
+      "trusted_circle_activity": {
+        "friends": 16,
+        "purchased": 26,
+        "mentors": 1,
+        "experts": 3
+      },
+      "trusted_circle_score": 80,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 82
+        },
+        {
+          "year": 2025,
+          "score": 83
+        },
+        {
+          "year": 2026,
+          "score": 84
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 83,
+        "repurchase": 85,
+        "promises": 81
+      },
+      "insights": "boAt stands out for budget-oriented shoppers. Its score remains stable due to easy home product returns but is limited by basic chassis durability.",
+      "weight_breakdown": {
+        "verification": 88,
+        "sat": 82,
+        "transparency": 80,
+        "consistency": 81,
+        "community": 84,
+        "maturity": 80,
+        "circle": 80
+      },
+      "associated_products": [
+        "headphone",
+        "smartwatches"
+      ]
+    },
+    {
+      "id": "b6",
+      "brand_name": "Noise",
+      "credibility_score": 82,
+      "transparency_score": 79,
+      "website": "https://www.gonoise.com",
+      "verified": true,
+      "years_in_business": 8,
+      "warranty_policy": "1 Year Standard Replacement Warranty. Fast online claims process.",
+      "customer_service_score": 81,
+      "transparency_rating": "B",
+      "value_for_money": 89,
+      "advantages": [
+        "Sleek smartwatch design",
+        "Very affordable fitness metrics",
+        "Excellent companion application"
+      ],
+      "disadvantages": [
+        "Sensor sensitivity is basic",
+        "Frequent Bluetooth resets required"
+      ],
+      "trusted_circle_activity": {
+        "friends": 10,
+        "purchased": 14,
+        "mentors": 2,
+        "experts": 2
+      },
+      "trusted_circle_score": 78,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 84
+        },
+        {
+          "year": 2025,
+          "score": 83
+        },
+        {
+          "year": 2026,
+          "score": 82
+        }
+      ],
+      "status": "Declining",
+      "accountability": {
+        "expectations": 80,
+        "repurchase": 82,
+        "promises": 79
+      },
+      "insights": "Noise saw a slight decline in score relative to rising smart wearables due to user-reported tracker latency spikes.",
+      "weight_breakdown": {
+        "verification": 85,
+        "sat": 81,
+        "transparency": 79,
+        "consistency": 80,
+        "community": 81,
+        "maturity": 78,
+        "circle": 78
+      },
+      "associated_products": [
+        "smartwatches",
+        "headphone"
+      ]
+    },
+    {
+      "id": "b7",
+      "brand_name": "Mivi",
+      "credibility_score": 88,
+      "transparency_score": 91,
+      "website": "https://www.mivi.in",
+      "verified": true,
+      "years_in_business": 9,
+      "warranty_policy": "1 Year Local India Warranty. Made-in-India commitment to quality.",
+      "customer_service_score": 87,
+      "transparency_rating": "A",
+      "value_for_money": 94,
+      "advantages": [
+        "Completely assembled in India",
+        "Extremely crisp digital vocals",
+        "Fast replacement support"
+      ],
+      "disadvantages": [
+        "Bass power can occasionally distort",
+        "Limited premium high-end range"
+      ],
+      "trusted_circle_activity": {
+        "friends": 7,
+        "purchased": 11,
+        "mentors": 3,
+        "experts": 4
+      },
+      "trusted_circle_score": 86,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 82
+        },
+        {
+          "year": 2025,
+          "score": 85
+        },
+        {
+          "year": 2026,
+          "score": 88
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 89,
+        "repurchase": 87,
+        "promises": 91
+      },
+      "insights": "Mivi's trust score rose to 88 on strong domestic assembly consistency, providing clean vocal tuning at unbeatable prices.",
+      "weight_breakdown": {
+        "verification": 91,
+        "sat": 87,
+        "transparency": 91,
+        "consistency": 86,
+        "community": 88,
+        "maturity": 81,
+        "circle": 86
+      },
+      "associated_products": [
+        "headphone"
+      ]
+    },
+    {
+      "id": "b8",
+      "brand_name": "Vu TVs",
+      "credibility_score": 86,
+      "transparency_score": 86,
+      "website": "https://vutvs.com",
+      "verified": true,
+      "years_in_business": 18,
+      "warranty_policy": "1 Year Domestic Warranty. Panel issues replaced on-site.",
+      "customer_service_score": 85,
+      "transparency_rating": "B+",
+      "value_for_money": 91,
+      "advantages": [
+        "Premium display finishes at half cost",
+        "Custom soundbars built-in",
+        "Very responsive localized customer team"
+      ],
+      "disadvantages": [
+        "Heavier frames",
+        "Basic smart remote buttons"
+      ],
+      "trusted_circle_activity": {
+        "friends": 5,
+        "purchased": 7,
+        "mentors": 1,
+        "experts": 4
+      },
+      "trusted_circle_score": 84,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 81
+        },
+        {
+          "year": 2025,
+          "score": 84
+        },
+        {
+          "year": 2026,
+          "score": 86
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 88,
+        "repurchase": 89,
+        "promises": 85
+      },
+      "insights": "Vu TVs showed steady trust gains based on robust on-site panel replacements and affordable cinema experiences in India.",
+      "weight_breakdown": {
+        "verification": 89,
+        "sat": 85,
+        "transparency": 86,
+        "consistency": 84,
+        "community": 85,
+        "maturity": 85,
+        "circle": 84
+      },
+      "associated_products": [
+        "smart TVs"
+      ]
+    },
+    {
+      "id": "b9",
+      "brand_name": "Dyson",
+      "credibility_score": 96,
+      "transparency_score": 92,
+      "website": "https://www.dyson.in",
+      "verified": true,
+      "years_in_business": 33,
+      "warranty_policy": "2 Year Global Warranty + Free on-site setup/demo.",
+      "customer_service_score": 94,
+      "transparency_rating": "A+",
+      "value_for_money": 78,
+      "advantages": [
+        "Unrivaled motor technology",
+        "Highly durable engineering",
+        "Excellent on-site customer service"
+      ],
+      "disadvantages": [
+        "Extremely premium pricing",
+        "Accessories are high cost",
+        "Not conventionally famous for organic beauty/skincare creams"
+      ],
+      "trusted_circle_activity": {
+        "friends": 3,
+        "purchased": 4,
+        "mentors": 5,
+        "experts": 8
+      },
+      "trusted_circle_score": 92,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 91
+        },
+        {
+          "year": 2025,
+          "score": 94
+        },
+        {
+          "year": 2026,
+          "score": 96
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 95,
+        "repurchase": 88,
+        "promises": 94
+      },
+      "insights": "Dyson holds absolute authority on heat protection electronics, with scores rising over three years, although value indices remain highly premium.",
+      "weight_breakdown": {
+        "verification": 98,
+        "sat": 94,
+        "transparency": 92,
+        "consistency": 96,
+        "community": 95,
+        "maturity": 90,
+        "circle": 92
+      },
+      "associated_products": [
+        "hair dryer",
+        "skincare & cream",
+        "hair cream"
+      ]
+    },
+    {
+      "id": "b10",
+      "brand_name": "Moxie Beauty",
+      "credibility_score": 92,
+      "transparency_score": 94,
+      "website": "https://moxiebeauty.co",
+      "verified": true,
+      "years_in_business": 4,
+      "warranty_policy": "No-questions-asked refund on first purchase within 14 days if unsatisfied.",
+      "customer_service_score": 90,
+      "transparency_rating": "A+",
+      "value_for_money": 88,
+      "advantages": [
+        "100% vegan organic formulas",
+        "Fully transparent chemical list",
+        "Excellent pricing structure"
+      ],
+      "disadvantages": [
+        "Relatively new brand",
+        "Limited offline availability in smaller towns"
+      ],
+      "trusted_circle_activity": {
+        "friends": 5,
+        "purchased": 6,
+        "mentors": 2,
+        "experts": 4
+      },
+      "trusted_circle_score": 90,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 72
+        },
+        {
+          "year": 2025,
+          "score": 84
+        },
+        {
+          "year": 2026,
+          "score": 92
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 92,
+        "repurchase": 90,
+        "promises": 94
+      },
+      "insights": "Moxie's trust score improved dramatically over the last three years due to absolute recipe transparency, excellent community feedback, and organic safe formulas.",
+      "weight_breakdown": {
+        "verification": 95,
+        "sat": 90,
+        "transparency": 94,
+        "consistency": 88,
+        "community": 92,
+        "maturity": 70,
+        "circle": 90
+      },
+      "associated_products": [
+        "hair cream",
+        "skincare & cream",
+        "skincare"
+      ]
+    },
+    {
+      "id": "b11",
+      "brand_name": "L'Oréal",
+      "credibility_score": 88,
+      "transparency_score": 86,
+      "website": "https://www.loreal.com",
+      "verified": true,
+      "years_in_business": 115,
+      "warranty_policy": "Standard batch-testing certification and product replacement guarantee.",
+      "customer_service_score": 85,
+      "transparency_rating": "A",
+      "value_for_money": 82,
+      "advantages": [
+        "Proven clinical formulations",
+        "Widely available globally",
+        "Huge research budget"
+      ],
+      "disadvantages": [
+        "Uses synthetic compounds",
+        "Bulk commercial packaging"
+      ],
+      "trusted_circle_activity": {
+        "friends": 12,
+        "purchased": 18,
+        "mentors": 6,
+        "experts": 8
+      },
+      "trusted_circle_score": 86,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 85
+        },
+        {
+          "year": 2025,
+          "score": 87
+        },
+        {
+          "year": 2026,
+          "score": 88
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 87,
+        "repurchase": 82,
+        "promises": 89
+      },
+      "insights": "L'Oreal remains a stable giant in personal care. Its score is supported by stellar brand maturity and wide-spread consumer availability.",
+      "weight_breakdown": {
+        "verification": 96,
+        "sat": 85,
+        "transparency": 86,
+        "consistency": 90,
+        "community": 84,
+        "maturity": 95,
+        "circle": 86
+      },
+      "associated_products": [
+        "hair cream",
+        "skincare & cream",
+        "skincare"
+      ]
+    },
+    {
+      "id": "b12",
+      "brand_name": "Kérastase",
+      "credibility_score": 90,
+      "transparency_score": 85,
+      "website": "https://www.kerastase.in",
+      "verified": true,
+      "years_in_business": 60,
+      "warranty_policy": "Premium customer salon satisfaction guarantee.",
+      "customer_service_score": 88,
+      "transparency_rating": "A",
+      "value_for_money": 75,
+      "advantages": [
+        "Professional salon durability",
+        "Exceptional active ingredients",
+        "Luxurious fragrance profiles"
+      ],
+      "disadvantages": [
+        "Very high price point",
+        "Requires care guide consultation"
+      ],
+      "trusted_circle_activity": {
+        "friends": 4,
+        "purchased": 5,
+        "mentors": 3,
+        "experts": 8
+      },
+      "trusted_circle_score": 88,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 87
+        },
+        {
+          "year": 2025,
+          "score": 89
+        },
+        {
+          "year": 2026,
+          "score": 90
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 91,
+        "repurchase": 84,
+        "promises": 90
+      },
+      "insights": "Kerastase is highly regarded in professional hair therapy. Its premium score is backed by top expert ratings and clinic certifications.",
+      "weight_breakdown": {
+        "verification": 94,
+        "sat": 88,
+        "transparency": 85,
+        "consistency": 91,
+        "community": 89,
+        "maturity": 92,
+        "circle": 88
+      },
+      "associated_products": [
+        "hair cream",
+        "skincare & cream",
+        "skincare"
+      ]
+    },
+    {
+      "id": "b13",
+      "brand_name": "TRESemmé",
+      "credibility_score": 75,
+      "transparency_score": 72,
+      "website": "https://www.tresemme.in",
+      "verified": true,
+      "years_in_business": 76,
+      "warranty_policy": "Batch quality assurance and customer care helpline help.",
+      "customer_service_score": 78,
+      "transparency_rating": "B",
+      "value_for_money": 85,
+      "advantages": [
+        "Affordable daily styling",
+        "Widely distributed easily",
+        "Good volume support"
+      ],
+      "disadvantages": [
+        "Contains sulfates and silicones",
+        "High water composition"
+      ],
+      "trusted_circle_activity": {
+        "friends": 6,
+        "purchased": 9,
+        "mentors": 1,
+        "experts": 2
+      },
+      "trusted_circle_score": 74,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 79
+        },
+        {
+          "year": 2025,
+          "score": 77
+        },
+        {
+          "year": 2026,
+          "score": 75
+        }
+      ],
+      "status": "Declining",
+      "accountability": {
+        "expectations": 76,
+        "repurchase": 78,
+        "promises": 74
+      },
+      "insights": "Tresemme's trust score has seen a slight decline as consumers shift towards sulfate-free organic boutique alternatives.",
+      "weight_breakdown": {
+        "verification": 85,
+        "sat": 78,
+        "transparency": 72,
+        "consistency": 75,
+        "community": 73,
+        "maturity": 85,
+        "circle": 74
+      },
+      "associated_products": [
+        "hair cream",
+        "skincare & cream",
+        "skincare"
+      ]
+    },
+    {
+      "id": "b14",
+      "brand_name": "Himalaya Wellness",
+      "credibility_score": 80,
+      "transparency_score": 84,
+      "website": "https://www.himalayawellness.in",
+      "verified": true,
+      "years_in_business": 94,
+      "warranty_policy": "100% herbal authenticity and active customer replacement policy.",
+      "customer_service_score": 82,
+      "transparency_rating": "A",
+      "value_for_money": 92,
+      "advantages": [
+        "Very economical pricing",
+        "Traditional herbal ingredients",
+        "Gentle on average skin"
+      ],
+      "disadvantages": [
+        "Slower action results",
+        "Generic fragrance smell"
+      ],
+      "trusted_circle_activity": {
+        "friends": 15,
+        "purchased": 22,
+        "mentors": 4,
+        "experts": 5
+      },
+      "trusted_circle_score": 81,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 81
+        },
+        {
+          "year": 2025,
+          "score": 80
+        },
+        {
+          "year": 2026,
+          "score": 80
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 82,
+        "repurchase": 84,
+        "promises": 81
+      },
+      "insights": "Himalaya continues to satisfy the price-conscious mass market with reliable traditional wellness, remaining stably trusted.",
+      "weight_breakdown": {
+        "verification": 90,
+        "sat": 82,
+        "transparency": 84,
+        "consistency": 80,
+        "community": 81,
+        "maturity": 94,
+        "circle": 81
+      },
+      "associated_products": [
+        "hair cream",
+        "skincare & cream",
+        "skincare"
+      ]
+    },
+    {
+      "id": "b15",
+      "brand_name": "Panasonic",
+      "credibility_score": 86,
+      "transparency_score": 82,
+      "website": "https://www.panasonic.com/in",
+      "verified": true,
+      "years_in_business": 106,
+      "warranty_policy": "2 Years Brand Warranty on personal care grooming electronics.",
+      "customer_service_score": 84,
+      "transparency_rating": "A",
+      "value_for_money": 83,
+      "advantages": [
+        "Highly efficient ion technology",
+        "Long motor life cycles",
+        "Whisper quiet fans"
+      ],
+      "disadvantages": [
+        "Slightly heavier designs",
+        "Accessories can feel bulky"
+      ],
+      "trusted_circle_activity": {
+        "friends": 4,
+        "purchased": 6,
+        "mentors": 2,
+        "experts": 6
+      },
+      "trusted_circle_score": 84,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 83
+        },
+        {
+          "year": 2025,
+          "score": 85
+        },
+        {
+          "year": 2026,
+          "score": 86
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 88,
+        "repurchase": 83,
+        "promises": 86
+      },
+      "insights": "Panasonic's trust gains are fueled by their nanoe moisture retention tech and reliable engine durability in hairdryers.",
+      "weight_breakdown": {
+        "verification": 93,
+        "sat": 84,
+        "transparency": 82,
+        "consistency": 86,
+        "community": 85,
+        "maturity": 95,
+        "circle": 84
+      },
+      "associated_products": [
+        "hair dryer"
+      ]
+    },
+    {
+      "id": "b16",
+      "brand_name": "Havells",
+      "credibility_score": 85,
+      "transparency_score": 86,
+      "website": "https://www.havells.com",
+      "verified": true,
+      "years_in_business": 43,
+      "warranty_policy": "2 Year Home Service warranty. On-site inspection across 400 Indian towns.",
+      "customer_service_score": 88,
+      "transparency_rating": "A",
+      "value_for_money": 87,
+      "advantages": [
+        "Extensive Indian home service",
+        "Affordable local pricing",
+        "Excellent build shielding"
+      ],
+      "disadvantages": [
+        "Basic heating control systems",
+        "Design finishes are simple plastic"
+      ],
+      "trusted_circle_activity": {
+        "friends": 8,
+        "purchased": 11,
+        "mentors": 3,
+        "experts": 4
+      },
+      "trusted_circle_score": 85,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 81
+        },
+        {
+          "year": 2025,
+          "score": 83
+        },
+        {
+          "year": 2026,
+          "score": 85
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 86,
+        "repurchase": 85,
+        "promises": 87
+      },
+      "insights": "Havells excels in local Indian service speed, providing prompt home inspection responses which boosts their trust trend index.",
+      "weight_breakdown": {
+        "verification": 92,
+        "sat": 88,
+        "transparency": 86,
+        "consistency": 84,
+        "community": 83,
+        "maturity": 88,
+        "circle": 85
+      },
+      "associated_products": [
+        "hair dryer",
+        "electric appliances",
+        "electric appliance"
+      ]
+    },
+    {
+      "id": "b17",
+      "brand_name": "Philips",
+      "credibility_score": 91,
+      "transparency_score": 87,
+      "website": "https://www.philips.co.in",
+      "verified": true,
+      "years_in_business": 133,
+      "warranty_policy": "2 Years International Warranty + easy service hub replacements.",
+      "customer_service_score": 89,
+      "transparency_rating": "A+",
+      "value_for_money": 84,
+      "advantages": [
+        "Gentle heating intelligent sensors",
+        "Extremely widespread spare parts",
+        "Excellent ergonomics"
+      ],
+      "disadvantages": [
+        "Short cord on entry level models",
+        "Higher price on premium range"
+      ],
+      "trusted_circle_activity": {
+        "friends": 9,
+        "purchased": 14,
+        "mentors": 4,
+        "experts": 7
+      },
+      "trusted_circle_score": 89,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 89
+        },
+        {
+          "year": 2025,
+          "score": 90
+        },
+        {
+          "year": 2026,
+          "score": 91
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 90,
+        "repurchase": 86,
+        "promises": 89
+      },
+      "insights": "Philips maintains a premium standard for hair care, offering top-tier temperature care and long equipment lifespans.",
+      "weight_breakdown": {
+        "verification": 95,
+        "sat": 89,
+        "transparency": 87,
+        "consistency": 91,
+        "community": 90,
+        "maturity": 96,
+        "circle": 89
+      },
+      "associated_products": [
+        "hair dryer",
+        "electric appliances",
+        "electric appliance"
+      ]
+    },
+    {
+      "id": "b18",
+      "brand_name": "Agaro",
+      "credibility_score": 74,
+      "transparency_score": 70,
+      "website": "https://www.agarolifestyle.com",
+      "verified": true,
+      "years_in_business": 9,
+      "warranty_policy": "1 Year brand warranty covering manufacturing defects.",
+      "customer_service_score": 73,
+      "transparency_rating": "B",
+      "value_for_money": 90,
+      "advantages": [
+        "Extremely affordable catalog",
+        "Modern aesthetic designs",
+        "Generous accessories included"
+      ],
+      "disadvantages": [
+        "Motor gets warm on heavy usage",
+        "Customer service requires self-shipping"
+      ],
+      "trusted_circle_activity": {
+        "friends": 3,
+        "purchased": 5,
+        "mentors": 1,
+        "experts": 1
+      },
+      "trusted_circle_score": 72,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 71
+        },
+        {
+          "year": 2025,
+          "score": 73
+        },
+        {
+          "year": 2026,
+          "score": 74
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 78,
+        "repurchase": 82,
+        "promises": 73
+      },
+      "insights": "Agaro is a budget favorite. Their score is stable but penalized by self-shipping requirements for rural service claims.",
+      "weight_breakdown": {
+        "verification": 82,
+        "sat": 73,
+        "transparency": 70,
+        "consistency": 74,
+        "community": 75,
+        "maturity": 75,
+        "circle": 72
+      },
+      "associated_products": [
+        "hair dryer"
+      ]
+    },
+    {
+      "id": "b19",
+      "brand_name": "Bajaj Electricals",
+      "credibility_score": 91,
+      "transparency_score": 90,
+      "website": "https://www.bajajelectricals.com",
+      "verified": true,
+      "years_in_business": 86,
+      "warranty_policy": "2 to 5 Years Extended warranty with nationwide home support.",
+      "customer_service_score": 92,
+      "transparency_rating": "A+",
+      "value_for_money": 90,
+      "advantages": [
+        "Extremely rugged Indian-grid design",
+        "Virtually indestructible motors",
+        "Vast local service network"
+      ],
+      "disadvantages": [
+        "Heavy weight components",
+        "Traditional design aesthetics could be modernised"
+      ],
+      "trusted_circle_activity": {
+        "friends": 14,
+        "purchased": 25,
+        "mentors": 5,
+        "experts": 8
+      },
+      "trusted_circle_score": 92,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 88
+        },
+        {
+          "year": 2025,
+          "score": 90
+        },
+        {
+          "year": 2026,
+          "score": 91
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 93,
+        "repurchase": 91,
+        "promises": 92
+      },
+      "insights": "Bajaj maintains legendary standing in Indian household networks. Excellent motor rewinding access and on-call service ensure top marks.",
+      "weight_breakdown": {
+        "verification": 96,
+        "sat": 92,
+        "transparency": 90,
+        "consistency": 93,
+        "community": 91,
+        "maturity": 98,
+        "circle": 92
+      },
+      "associated_products": [
+        "electric appliance",
+        "electric appliances"
+      ]
+    },
+    {
+      "id": "b20",
+      "brand_name": "Godrej",
+      "credibility_score": 88,
+      "transparency_score": 85,
+      "website": "https://www.godrejappliances.com",
+      "verified": true,
+      "years_in_business": 66,
+      "warranty_policy": "1 Year Comprehensive + 10 Years Compressor/Motor Warranty.",
+      "customer_service_score": 86,
+      "transparency_rating": "A",
+      "value_for_money": 88,
+      "advantages": [
+        "Environment-friendly cooling agents",
+        "Sturdy structural sheets",
+        "Excellent home assistance response in tier-2 cities"
+      ],
+      "disadvantages": [
+        "Cooling speed can be standard",
+        "Digital control boards feel slightly basic"
+      ],
+      "trusted_circle_activity": {
+        "friends": 11,
+        "purchased": 16,
+        "mentors": 3,
+        "experts": 6
+      },
+      "trusted_circle_score": 87,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 86
+        },
+        {
+          "year": 2025,
+          "score": 87
+        },
+        {
+          "year": 2026,
+          "score": 88
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 89,
+        "repurchase": 86,
+        "promises": 88
+      },
+      "insights": "Godrej is historically solid, maintaining eco leadership with their 100% CFC-free cooling systems and stable local support.",
+      "weight_breakdown": {
+        "verification": 94,
+        "sat": 86,
+        "transparency": 85,
+        "consistency": 89,
+        "community": 87,
+        "maturity": 95,
+        "circle": 87
+      },
+      "associated_products": [
+        "electric appliances",
+        "Refrigerators",
+        "washing machines",
+        "electric appliance"
+      ]
+    },
+    {
+      "id": "b21",
+      "brand_name": "Voltas",
+      "credibility_score": 85,
+      "transparency_score": 81,
+      "website": "https://www.myvoltas.com",
+      "verified": true,
+      "years_in_business": 70,
+      "warranty_policy": "1 Year Complete + 5 Years Compressor Warranty.",
+      "customer_service_score": 82,
+      "transparency_rating": "A",
+      "value_for_money": 89,
+      "advantages": [
+        "Outstanding heavy-temperature cooling load",
+        "Strong structural frames",
+        "Competitive pricing"
+      ],
+      "disadvantages": [
+        "Acoustic levels are average",
+        "Remote controller lacks backlighting"
+      ],
+      "trusted_circle_activity": {
+        "friends": 7,
+        "purchased": 10,
+        "mentors": 2,
+        "experts": 5
+      },
+      "trusted_circle_score": 83,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 84
+        },
+        {
+          "year": 2025,
+          "score": 85
+        },
+        {
+          "year": 2026,
+          "score": 85
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 85,
+        "repurchase": 87,
+        "promises": 84
+      },
+      "insights": "Voltas products (part of Tata Group) provide a reliable cooling shield. Their budget friendly inverter line provides strong value satisfaction.",
+      "weight_breakdown": {
+        "verification": 91,
+        "sat": 82,
+        "transparency": 81,
+        "consistency": 85,
+        "community": 84,
+        "maturity": 94,
+        "circle": 83
+      },
+      "associated_products": [
+        "electric appliances",
+        "Refrigerators",
+        "air conditioners",
+        "electric appliance"
+      ]
+    },
+    {
+      "id": "b22",
+      "brand_name": "LG",
+      "credibility_score": 90,
+      "transparency_score": 86,
+      "website": "https://www.lg.com/in",
+      "verified": true,
+      "years_in_business": 77,
+      "warranty_policy": "1 Year brand warranty + 10 Years on Smart Inverter compressor/motor.",
+      "customer_service_score": 88,
+      "transparency_rating": "A",
+      "value_for_money": 85,
+      "advantages": [
+        "Ultra durable active cooling cycle",
+        "Intelligent smart thinQ dashboard setup",
+        "Excellent energy efficiency index"
+      ],
+      "disadvantages": [
+        "Relatively higher initial investment",
+        "Slight software updates lag on old smart TV panels"
+      ],
+      "trusted_circle_activity": {
+        "friends": 9,
+        "purchased": 16,
+        "mentors": 4,
+        "experts": 6
+      },
+      "trusted_circle_score": 88,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 88
+        },
+        {
+          "year": 2025,
+          "score": 89
+        },
+        {
+          "year": 2026,
+          "score": 90
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 89,
+        "repurchase": 87,
+        "promises": 90
+      },
+      "insights": "LG products score matches general performance. Their motor warranties contribute strongly to long-term trust consistency.",
+      "weight_breakdown": {
+        "verification": 92,
+        "sat": 88,
+        "transparency": 86,
+        "consistency": 90,
+        "community": 88,
+        "maturity": 94,
+        "circle": 88
+      },
+      "associated_products": [
+        "smart TVs",
+        "Refrigerators",
+        "washing machines"
+      ]
+    },
+    {
+      "id": "b23",
+      "brand_name": "Bosch",
+      "credibility_score": 94,
+      "transparency_score": 90,
+      "website": "https://www.bosch-home.in",
+      "verified": true,
+      "years_in_business": 138,
+      "warranty_policy": "2 Year Compulsory Warranty + 12 Years on EcoSilence Drive motor.",
+      "customer_service_score": 91,
+      "transparency_rating": "A+",
+      "value_for_money": 82,
+      "advantages": [
+        "German engineered longevity",
+        "Extremely silent motor functionality",
+        "Perfect anti-vibration design blocks"
+      ],
+      "disadvantages": [
+        "Costly replacement parts",
+        "Longer wash time schedules due to intensive cleaning"
+      ],
+      "trusted_circle_activity": {
+        "friends": 5,
+        "purchased": 9,
+        "mentors": 4,
+        "experts": 7
+      },
+      "trusted_circle_score": 92,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 91
+        },
+        {
+          "year": 2025,
+          "score": 93
+        },
+        {
+          "year": 2026,
+          "score": 94
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 94,
+        "repurchase": 90,
+        "promises": 93
+      },
+      "insights": "Bosch ranks among the highest in reliability, due to superb parts build quality and outstanding eco efficiency in high load environments.",
+      "weight_breakdown": {
+        "verification": 96,
+        "sat": 91,
+        "transparency": 90,
+        "consistency": 94,
+        "community": 92,
+        "maturity": 98,
+        "circle": 92
+      },
+      "associated_products": [
+        "washing machines"
+      ]
+    },
+    {
+      "id": "b24",
+      "brand_name": "Whirlpool",
+      "credibility_score": 84,
+      "transparency_score": 82,
+      "website": "https://www.whirlpoolindia.com",
+      "verified": true,
+      "years_in_business": 113,
+      "warranty_policy": "1 Year comprehensive + 10 Years compressor/internal motor warranty.",
+      "customer_service_score": 80,
+      "transparency_rating": "B+",
+      "value_for_money": 88,
+      "advantages": [
+        "Excellent Sixth Sense cooling algorithms",
+        "Very affordable price ranges",
+        "Robust build layouts"
+      ],
+      "disadvantages": [
+        "Higher noise ratings",
+        "Basic plastic dial controllers on entry models"
+      ],
+      "trusted_circle_activity": {
+        "friends": 8,
+        "purchased": 11,
+        "mentors": 2,
+        "experts": 3
+      },
+      "trusted_circle_score": 82,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 85
+        },
+        {
+          "year": 2025,
+          "score": 84
+        },
+        {
+          "year": 2026,
+          "score": 84
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 84,
+        "repurchase": 86,
+        "promises": 82
+      },
+      "insights": "Whirlpool delivers robust products at value pricing. Their trust remains stable due to good lifetime performance ratios.",
+      "weight_breakdown": {
+        "verification": 90,
+        "sat": 80,
+        "transparency": 82,
+        "consistency": 84,
+        "community": 82,
+        "maturity": 95,
+        "circle": 82
+      },
+      "associated_products": [
+        "Refrigerators",
+        "washing machines"
+      ]
+    },
+    {
+      "id": "b25",
+      "brand_name": "Haier",
+      "credibility_score": 78,
+      "transparency_score": 76,
+      "website": "https://www.haier.com/in",
+      "verified": true,
+      "years_in_business": 40,
+      "warranty_policy": "1 Year Comprehensive + 10 Years Compressor Warranty.",
+      "customer_service_score": 78,
+      "transparency_rating": "B",
+      "value_for_money": 91,
+      "advantages": [
+        "Extremely creative designs (e.g. 3-door refrigerators)",
+        "Budget friendly solutions",
+        "Rapid cooling speeds"
+      ],
+      "disadvantages": [
+        "Metal sheets are slightly thin",
+        "Customer customer-service response times occupy 24-48 hrs"
+      ],
+      "trusted_circle_activity": {
+        "friends": 6,
+        "purchased": 10,
+        "mentors": 1,
+        "experts": 2
+      },
+      "trusted_circle_score": 76,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 76
+        },
+        {
+          "year": 2025,
+          "score": 78
+        },
+        {
+          "year": 2026,
+          "score": 78
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 82,
+        "repurchase": 85,
+        "promises": 77
+      },
+      "insights": "Haier holds high customer satisfaction on budget segments. Minor service delays prevent them reaching higher trust rankings.",
+      "weight_breakdown": {
+        "verification": 84,
+        "sat": 78,
+        "transparency": 76,
+        "consistency": 78,
+        "community": 80,
+        "maturity": 82,
+        "circle": 76
+      },
+      "associated_products": [
+        "Refrigerators"
+      ]
+    },
+    {
+      "id": "b26",
+      "brand_name": "IFB",
+      "credibility_score": 87,
+      "transparency_score": 84,
+      "website": "https://www.ifbappliances.com",
+      "verified": true,
+      "years_in_business": 50,
+      "warranty_policy": "4 Years Super Comprehensive Warranty + 10 Years Spare parts availability.",
+      "customer_service_score": 83,
+      "transparency_rating": "B+",
+      "value_for_money": 80,
+      "advantages": [
+        "Unbelievable 4-year full warranty",
+        "Built-in smart water softening hardware",
+        "Special aqua-tension drum designs"
+      ],
+      "disadvantages": [
+        "Premium price points on spares",
+        "Complex user instruction manual"
+      ],
+      "trusted_circle_activity": {
+        "friends": 4,
+        "purchased": 7,
+        "mentors": 3,
+        "experts": 5
+      },
+      "trusted_circle_score": 85,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 84
+        },
+        {
+          "year": 2025,
+          "score": 86
+        },
+        {
+          "year": 2026,
+          "score": 87
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 88,
+        "repurchase": 85,
+        "promises": 89
+      },
+      "insights": "IFB's trust score rose to 87 on the strength of their industry-leading 4-year comprehensive warranty, which offers excellent buyer peace of mind.",
+      "weight_breakdown": {
+        "verification": 92,
+        "sat": 83,
+        "transparency": 84,
+        "consistency": 87,
+        "community": 84,
+        "maturity": 90,
+        "circle": 85
+      },
+      "associated_products": [
+        "washing machines"
+      ]
+    },
+    {
+      "id": "b27",
+      "brand_name": "Sennheiser",
+      "credibility_score": 91,
+      "transparency_score": 88,
+      "website": "https://www.sennheiser-hearing.com/in",
+      "verified": true,
+      "years_in_business": 79,
+      "warranty_policy": "2 Years Brand International Warranty on active elements.",
+      "customer_service_score": 86,
+      "transparency_rating": "A",
+      "value_for_money": 82,
+      "advantages": [
+        "Absolute pristine master level audiophile tuning",
+        "Highly reliable cable and chassis builds",
+        "Ultra precise treble frequency balance"
+      ],
+      "disadvantages": [
+        "Premium pricing structures",
+        "Very basic companion application controls"
+      ],
+      "trusted_circle_activity": {
+        "friends": 3,
+        "purchased": 6,
+        "mentors": 3,
+        "experts": 9
+      },
+      "trusted_circle_score": 90,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 89
+        },
+        {
+          "year": 2025,
+          "score": 90
+        },
+        {
+          "year": 2026,
+          "score": 91
+        }
+      ],
+      "status": "Improving",
+      "accountability": {
+        "expectations": 94,
+        "repurchase": 87,
+        "promises": 90
+      },
+      "insights": "Sennheiser matches Sony on the professional audio space, providing pristine, highly reliable acoustic transparency scores.",
+      "weight_breakdown": {
+        "verification": 95,
+        "sat": 86,
+        "transparency": 88,
+        "consistency": 90,
+        "community": 91,
+        "maturity": 95,
+        "circle": 90
+      },
+      "associated_products": [
+        "headphone"
+      ]
+    },
+    {
+      "id": "b28",
+      "brand_name": "Xiaomi",
+      "credibility_score": 79,
+      "transparency_score": 81,
+      "website": "https://www.mi.com/in",
+      "verified": true,
+      "years_in_business": 14,
+      "warranty_policy": "1 Year brand product warranty covering display panels.",
+      "customer_service_score": 80,
+      "transparency_rating": "B",
+      "value_for_money": 93,
+      "advantages": [
+        "Extremely affordable Smart patchwall layouts",
+        "Strong metallic visual frame panels",
+        "Highly custom smart integrations"
+      ],
+      "disadvantages": [
+        "In-built ads inside smart UI launcher",
+        "Occasional video decode lag on high resolutions"
+      ],
+      "trusted_circle_activity": {
+        "friends": 8,
+        "purchased": 15,
+        "mentors": 1,
+        "experts": 2
+      },
+      "trusted_circle_score": 76,
+      "journey": [
+        {
+          "year": 2024,
+          "score": 77
+        },
+        {
+          "year": 2025,
+          "score": 78
+        },
+        {
+          "year": 2026,
+          "score": 79
+        }
+      ],
+      "status": "Stable",
+      "accountability": {
+        "expectations": 84,
+        "repurchase": 82,
+        "promises": 79
+      },
+      "insights": "Xiaomi remains a budget favorite for smart display features. Score is penalised by native banner ads inside core launcher panels.",
+      "weight_breakdown": {
+        "verification": 86,
+        "sat": 80,
+        "transparency": 81,
+        "consistency": 78,
+        "community": 79,
+        "maturity": 80,
+        "circle": 76
+      },
+      "associated_products": [
+        "smart TVs"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "p201",
+      "name": "Moxie Flaxseed Hair Styling Cream",
+      "brand": "Moxie Beauty",
+      "category": "Hair Creams",
+      "description": "100% vegan flaxseed hair cream providing soft organic hold, deep moisture locks, and shiny curl activation without any parabens.",
+      "image_url": "https://images.unsplash.com/photo-1608248597481-496100c80836?auto=format&fit=crop&w=650&q=80",
+      "price": 849,
+      "rating": 4.8,
+      "review_count": 320,
+      "trust_score": 93,
+      "authenticity_score": 95,
+      "transparency_score": 94,
+      "warranty_score": 92,
+      "complaint_rate": 0.8,
+      "return_rate": 1.2,
+      "verified_review_rate": 96,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p202",
+      "name": "Kérastase Discipline Oleo-Relax Cream",
+      "brand": "Kérastase",
+      "category": "Hair Creams",
+      "description": "Premium professional hair smoothing control cream. Calms frizz instantly with active shoreline Shorea butter extracts and heat guard technology.",
+      "image_url": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&w=650&q=80",
+      "price": 3400,
+      "rating": 4.7,
+      "review_count": 180,
+      "trust_score": 91,
+      "authenticity_score": 92,
+      "transparency_score": 85,
+      "warranty_score": 90,
+      "complaint_rate": 1.1,
+      "return_rate": 1.8,
+      "verified_review_rate": 93,
+      "is_sponsored": true,
+      "is_premium_only": false
+    },
+    {
+      "id": "p203",
+      "name": "L'Oréal Professionnel Liss Unlimited Cream",
+      "brand": "L'Oréal",
+      "category": "Hair Creams",
+      "description": "Expert smoothing blowout priming cream infused with Pro-Keratin oil formulas, protecting fibers up to 4 days against damp air distortion.",
+      "image_url": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?auto=format&fit=crop&w=650&q=80",
+      "price": 720,
+      "rating": 4.4,
+      "review_count": 510,
+      "trust_score": 87,
+      "authenticity_score": 89,
+      "transparency_score": 86,
+      "warranty_score": 86,
+      "complaint_rate": 1.9,
+      "return_rate": 2.2,
+      "verified_review_rate": 90,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p204",
+      "name": "TRESemmé Keratin Smooth Serum Cream",
+      "brand": "TRESemmé",
+      "category": "Hair Creams",
+      "description": "Budget styling cream offering salon silky textures, protecting strands against thermal dryers with lightweight micro-silicone layers.",
+      "image_url": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=650&q=80",
+      "price": 450,
+      "rating": 4.1,
+      "review_count": 2400,
+      "trust_score": 75,
+      "authenticity_score": 74,
+      "transparency_score": 72,
+      "warranty_score": 74,
+      "complaint_rate": 3.5,
+      "return_rate": 4.2,
+      "verified_review_rate": 76,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p205",
+      "name": "Himalaya Herbals Protein Hair Cream",
+      "brand": "Himalaya Wellness",
+      "category": "Hair Creams",
+      "description": "Daily organic nourishment cream enriched with wheatgrass proteins, chickpea, and wild gooseberry supporting standard hair root health.",
+      "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=650&q=80",
+      "price": 180,
+      "rating": 4.2,
+      "review_count": 1420,
+      "trust_score": 80,
+      "authenticity_score": 83,
+      "transparency_score": 84,
+      "warranty_score": 81,
+      "complaint_rate": 2,
+      "return_rate": 2.5,
+      "verified_review_rate": 85,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p206",
+      "name": "Dyson Supersonic Protective Styling Cream",
+      "brand": "Dyson",
+      "category": "Hair Creams",
+      "description": "Note: Dyson is famous for elite electronics, not beauty lotions! This is a companion heat-seal lotion developed purely for active thermal dryer users.",
+      "image_url": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=650&q=80",
+      "price": 4200,
+      "rating": 3.9,
+      "review_count": 90,
+      "trust_score": 55,
+      "authenticity_score": 80,
+      "transparency_score": 92,
+      "warranty_score": 92,
+      "complaint_rate": 0.5,
+      "return_rate": 1,
+      "verified_review_rate": 94,
+      "is_sponsored": false,
+      "is_premium_only": true
+    },
+    {
+      "id": "p207",
+      "name": "Dyson Supersonic Hair Dryer HD08",
+      "brand": "Dyson",
+      "category": "Hair Dryers",
+      "description": "The gold standard of beauty tech engineering. V9 digital motor spins up to 110,000rpm, measuring temperature 40 times per second to prevent heat damage.",
+      "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=650&q=80",
+      "price": 34900,
+      "rating": 4.9,
+      "review_count": 1540,
+      "trust_score": 97,
+      "authenticity_score": 98,
+      "transparency_score": 92,
+      "warranty_score": 95,
+      "complaint_rate": 0.4,
+      "return_rate": 0.9,
+      "verified_review_rate": 98,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p208",
+      "name": "Philips thermoprotect Advanced Dryer",
+      "brand": "Philips",
+      "category": "Hair Dryers",
+      "description": "Smart 2100W hair dryer with ThermoProtect attachments, offering beautiful shine with intelligent temperature shielding elements.",
+      "image_url": "https://images.unsplash.com/photo-1640555900713-3ee73d64d4b1?auto=format&fit=crop&w=650&q=80",
+      "price": 2499,
+      "rating": 4.6,
+      "review_count": 8100,
+      "trust_score": 91,
+      "authenticity_score": 92,
+      "transparency_score": 87,
+      "warranty_score": 91,
+      "complaint_rate": 1.8,
+      "return_rate": 2.1,
+      "verified_review_rate": 93,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p209",
+      "name": "Panasonic Double Ions Salon Moist Dryer",
+      "brand": "Panasonic",
+      "category": "Hair Dryers",
+      "description": "Double moisture ions dryer locking internal cuticles. Reduces static frizz, preserving natural protein moisture during styling.",
+      "image_url": "https://images.unsplash.com/photo-1640555900713-3ee73d64d4b1?auto=format&fit=crop&w=650&q=80",
+      "price": 5490,
+      "rating": 4.5,
+      "review_count": 750,
+      "trust_score": 87,
+      "authenticity_score": 86,
+      "transparency_score": 82,
+      "warranty_score": 86,
+      "complaint_rate": 2,
+      "return_rate": 2.4,
+      "verified_review_rate": 88,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p210",
+      "name": "Havells HD3151 1600W folding Dryer",
+      "brand": "Havells",
+      "category": "Hair Dryers",
+      "description": "Compact folding travel dryer. Delivers optimum airflow with gentle heat blowing, backed by Havells' nationwide 2-year on-site replacement.",
+      "image_url": "https://images.unsplash.com/photo-1640555900713-3ee73d64d4b1?auto=format&fit=crop&w=650&q=80",
+      "price": 1249,
+      "rating": 4.3,
+      "review_count": 3600,
+      "trust_score": 84,
+      "authenticity_score": 85,
+      "transparency_score": 86,
+      "warranty_score": 88,
+      "complaint_rate": 2.4,
+      "return_rate": 2.9,
+      "verified_review_rate": 86,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p211",
+      "name": "Agaro Volumizer Hair Dryer and Styler",
+      "brand": "Agaro",
+      "category": "Hair Dryers",
+      "description": "Highly budget-friendly multi-attachment hot air brush styling dryer. Ergonomic plastic frame ideal for quick daily office prep.",
+      "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=650&q=80",
+      "price": 899,
+      "rating": 4,
+      "review_count": 4200,
+      "trust_score": 73,
+      "authenticity_score": 75,
+      "transparency_score": 70,
+      "warranty_score": 72,
+      "complaint_rate": 3.8,
+      "return_rate": 5.1,
+      "verified_review_rate": 74,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p3",
+      "name": "Apple MacBook Air M3",
+      "brand": "Apple",
+      "category": "Laptops",
+      "description": "13.6 Liquid Retina Display, ultra-thin lightweight aluminum frame, fast M3 8-core CPU and 10-core GPU, up to 18 hours of battery life.",
+      "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=650&q=80",
+      "price": 114900,
+      "rating": 4.8,
+      "review_count": 850,
+      "trust_score": 95,
+      "authenticity_score": 96,
+      "transparency_score": 92,
+      "warranty_score": 93,
+      "complaint_rate": 1,
+      "return_rate": 1.8,
+      "verified_review_rate": 98,
+      "is_sponsored": true,
+      "is_premium_only": false
+    },
+    {
+      "id": "p4",
+      "name": "Sony BRAVIA XR OLED TV",
+      "brand": "Sony",
+      "category": "Smart TVs",
+      "description": "55 4K Ultra HD smart TV with Cognitive Processor XR, Acoustic Surface Audio+, Dolby Vision, Dolby Atmos, and integrated Google TV dashboard.",
+      "image_url": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=650&q=80",
+      "price": 154900,
+      "rating": 4.9,
+      "review_count": 480,
+      "trust_score": 97,
+      "authenticity_score": 98,
+      "transparency_score": 94,
+      "warranty_score": 92,
+      "complaint_rate": 0.8,
+      "return_rate": 1.2,
+      "verified_review_rate": 99,
+      "is_sponsored": false,
+      "is_premium_only": true
+    },
+    {
+      "id": "p10",
+      "name": "Vu Masterpiece Glo QLED TV",
+      "brand": "Vu TVs",
+      "category": "Smart TVs",
+      "description": "California design aesthetics with 800 nits high bright panel, Armani gold steel finishes, 4.1 soundbar built-in, and 120Hz refresh rates.",
+      "image_url": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=650&q=80",
+      "price": 45999,
+      "rating": 4.4,
+      "review_count": 420,
+      "trust_score": 87,
+      "authenticity_score": 89,
+      "transparency_score": 86,
+      "warranty_score": 88,
+      "complaint_rate": 2.8,
+      "return_rate": 3.5,
+      "verified_review_rate": 90,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p13",
+      "name": "Xiaomi Smart TV X 43 Pro",
+      "brand": "Xiaomi",
+      "category": "Smart TVs",
+      "description": "Highly budget-friendly 4K display equipped with Dolby Vision, PatchWall companion app, and standard surround acoustic projection.",
+      "image_url": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=650&q=80",
+      "price": 26999,
+      "rating": 4.1,
+      "review_count": 3100,
+      "trust_score": 78,
+      "authenticity_score": 82,
+      "transparency_score": 81,
+      "warranty_score": 79,
+      "complaint_rate": 3.2,
+      "return_rate": 3.9,
+      "verified_review_rate": 80,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p5",
+      "name": "Samsung Bespoke Double Door Refrigerator",
+      "brand": "Samsung",
+      "category": "Refrigerators",
+      "description": "345 Liters elegant double-door convertible smart refrigerator tracking optimal cooling with AI Ecobubble technology and digital inverter compressor.",
+      "image_url": "https://images.unsplash.com/photo-1571175432247-fe03a403d801?auto=format&fit=crop&w=650&q=80",
+      "price": 38990,
+      "rating": 4.4,
+      "review_count": 650,
+      "trust_score": 91,
+      "authenticity_score": 92,
+      "transparency_score": 88,
+      "warranty_score": 98,
+      "complaint_rate": 2.2,
+      "return_rate": 3.1,
+      "verified_review_rate": 92,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p14",
+      "name": "Godrej Eon Vibe Double Door 290L",
+      "brand": "Godrej",
+      "category": "Refrigerators",
+      "description": "Sturdy double door refrigerator with eco CFC-free agent cooling, long motor life coils, and durable internal sheet metals.",
+      "image_url": "https://images.unsplash.com/photo-1571175432247-fe03a403d801?auto=format&fit=crop&w=650&q=80",
+      "price": 24990,
+      "rating": 4.3,
+      "review_count": 310,
+      "trust_score": 88,
+      "authenticity_score": 89,
+      "transparency_score": 85,
+      "warranty_score": 92,
+      "complaint_rate": 1.9,
+      "return_rate": 2.4,
+      "verified_review_rate": 91,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p215",
+      "name": "Bosch 8kg Front Load eco Dryer Washer",
+      "brand": "Bosch",
+      "category": "Washing Machines",
+      "description": "Unparalleled German structural design featuring stable AntiVibration blocks and extremely silent lifetime EcoSilence motors.",
+      "image_url": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=650&q=80",
+      "price": 39490,
+      "rating": 4.8,
+      "review_count": 850,
+      "trust_score": 94,
+      "authenticity_score": 95,
+      "transparency_score": 90,
+      "warranty_score": 92,
+      "complaint_rate": 0.9,
+      "return_rate": 1.4,
+      "verified_review_rate": 97,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p216",
+      "name": "IFB Aqua-Soft Front Load 7.5kg Washer",
+      "brand": "IFB",
+      "category": "Washing Machines",
+      "description": "Super durable Indian washing engine backed by an absolute 4-year home warranty and internal water softening chemical protection modules.",
+      "image_url": "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?auto=format&fit=crop&w=650&q=80",
+      "price": 33400,
+      "rating": 4.5,
+      "review_count": 520,
+      "trust_score": 87,
+      "authenticity_score": 86,
+      "transparency_score": 84,
+      "warranty_score": 96,
+      "complaint_rate": 2.1,
+      "return_rate": 2.5,
+      "verified_review_rate": 90,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p217",
+      "name": "Bajaj Majesty DX-7 Dry Iron Model",
+      "brand": "Electric Appliances",
+      "category": "Electric Appliances",
+      "description": "Legendary Indian household workhorse iron. Double ceramic coated thermal plate, virtually shock-proof chassis, and lifetime rewinding support.",
+      "image_url": "https://images.unsplash.com/photo-1614607248047-1114afb4aaac?auto=format&fit=crop&w=650&q=80",
+      "price": 999,
+      "rating": 4.8,
+      "review_count": 5400,
+      "trust_score": 92,
+      "authenticity_score": 95,
+      "transparency_score": 90,
+      "warranty_score": 94,
+      "complaint_rate": 0.6,
+      "return_rate": 1.1,
+      "verified_review_rate": 97,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p218",
+      "name": "Voltas Beko Smart solo Microwave oven",
+      "brand": "Voltas",
+      "category": "Electric Appliances",
+      "description": "Rugged budget microwave oven built in collaboration with Beko. Highly stable thermal dispersion and 3 years comprehensive warranty.",
+      "image_url": "https://images.unsplash.com/photo-1614607248047-1114afb4aaac?auto=format&fit=crop&w=650&q=80",
+      "price": 6490,
+      "rating": 4.4,
+      "review_count": 620,
+      "trust_score": 85,
+      "authenticity_score": 88,
+      "transparency_score": 81,
+      "warranty_score": 88,
+      "complaint_rate": 2.2,
+      "return_rate": 2.9,
+      "verified_review_rate": 89,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p6",
+      "name": "Sony WH-1000XM5 Studio Headphones",
+      "brand": "Sony",
+      "category": "Headphones",
+      "description": "Industry-leading active noise cancelling overhead headphones with multi-microphone noise sensor, carbon fiber drivers, and 30 hours batter life.",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=650&q=80",
+      "price": 29990,
+      "rating": 4.7,
+      "review_count": 980,
+      "trust_score": 93,
+      "authenticity_score": 93,
+      "transparency_score": 86,
+      "warranty_score": 91,
+      "complaint_rate": 1.5,
+      "return_rate": 2,
+      "verified_review_rate": 95,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p230",
+      "name": "Sennheiser Momentum 4 premium Wireless",
+      "brand": "Sennheiser",
+      "category": "Headphones",
+      "description": "Audiophile-grade 42mm transducer system delivering pristine audio clarity, coupled with a record-holding 60-hour active battery lifespan.",
+      "image_url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=650&q=80",
+      "price": 27990,
+      "rating": 4.8,
+      "review_count": 420,
+      "trust_score": 91,
+      "authenticity_score": 93,
+      "transparency_score": 88,
+      "warranty_score": 90,
+      "complaint_rate": 1.4,
+      "return_rate": 1.9,
+      "verified_review_rate": 94,
+      "is_sponsored": false,
+      "is_premium_only": false
+    },
+    {
+      "id": "p8",
+      "name": "boAt Rockerz 450 Pro Wireless",
+      "brand": "boAt",
+      "category": "Headphones",
+      "description": "Affordable dynamic supra-aural headphones with padded ear cups, voice assistants ready, and 15 hours non-stop playground playback.",
+      "image_url": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=650&q=80",
+      "price": 1499,
+      "rating": 4.1,
+      "review_count": 8400,
+      "trust_score": 74,
+      "authenticity_score": 68,
+      "transparency_score": 80,
+      "warranty_score": 81,
+      "complaint_rate": 5.4,
+      "return_rate": 6.8,
+      "verified_review_rate": 71,
+      "is_sponsored": false,
+      "is_premium_only": false
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "product_id": "p1",
+      "rating": 5,
+      "author": "Rahul Sharma",
+      "verified": true,
+      "review_text": "Absolutely stunning device. The build quality in Titanium is next level. The reviews on Amazon are genuine, solid battery life."
+    },
+    {
+      "id": "r2",
+      "product_id": "p1",
+      "rating": 4,
+      "author": "Pooja Roy",
+      "verified": true,
+      "review_text": "The phone is incredible but extremely expensive. Value for money is average but premium quality makes up for it."
+    },
+    {
+      "id": "r3",
+      "product_id": "p8",
+      "rating": 4,
+      "author": "Amit K.",
+      "verified": false,
+      "review_text": "Satisfactory given the low price. However, the warranty claims are difficult. Saw multiple identical copy-paste reviews online."
+    },
+    {
+      "id": "r4",
+      "product_id": "p8",
+      "rating": 2,
+      "author": "Sneha G.",
+      "verified": false,
+      "review_text": "Cheap plastic feel, item stopped working in 2 weeks. The customer service center told me replacement will take a full month. Highly suspicious ratings."
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "username": "premium_user",
+      "email": "premium@vouch.in",
+      "password": "password",
+      "isPremium": true
+    },
+    {
+      "id": "u2",
+      "username": "normal_user",
+      "email": "user@vouch.in",
+      "password": "password",
+      "isPremium": false
+    },
+    {
+      "id": "admin",
+      "username": "admin",
+      "email": "admin@vouch.in",
+      "password": "adminpassword",
+      "isPremium": true,
+      "isAdmin": true
+    }
+  ],
+  "saved_products": [
+    "p1",
+    "p3",
+    "p201"
+  ],
+  "click_metrics": {
+    "amazon_p1": 42,
+    "flipkart_p1": 21,
+    "amazon_p3": 17,
+    "amazon_p207": 28,
+    "flipkart_p201": 31
+  }
+}

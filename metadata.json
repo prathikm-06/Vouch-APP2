@@ -1,0 +1,8 @@
+{
+  "name": "Vouch",
+  "description": "The Credit Score for Products and Brands. Determine integrity, review authenticity, warranty compliance, and value for money to generate dynamic trust scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

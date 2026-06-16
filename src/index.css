@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Custom transitions and scrollbars */
+html, body {
+  background-color: #f1f5f9;
+  color: #1e293b;
+  font-family: var(--font-sans);
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+/* Elegant glass card and modern components on light mode */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.brand-card-shiny::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.2) 50%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  transform: skewX(-25deg);
+  transition: 0.75s;
+}
+
+.brand-card-shiny:hover::before {
+  left: 150%;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 99px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Pulse animation for active dynamic heuristics */
+@keyframes brainPulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.3;
+  }
+  50% {
+    transform: scale(1.05);
+    opacity: 0.85;
+  }
+}
+
+.meta-pulse {
+  animation: brainPulse 2s infinite ease-in-out;
+}
+
+/* PREMIUM WHITE THEME SYSTEM OVERRIDES */
+#vouch-page-frame {
+  background-color: #f1f5f9 !important;
+}
+
+#vouch-app-dashboard-container {
+  background-color: #ffffff !important;
+  color: #1e293b !important;
+  border-color: #e2e8f0 !important;
+  box-shadow: 0 20px 25px -5px rgba(15, 23, 42, 0.05), 0 8px 10px -6px rgba(15, 23, 42, 0.05) !important;
+}
+
+#vouch-navbar {
+  background-color: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+}
+
+#logo-text-p1 {
+  color: #0f172a !important;
+}
+
+#logo-text-p1 + span {
+  background-color: rgba(18, 183, 106, 0.15) !important;
+  color: #10b981 !important;
+}
+
+#vouch-tabs {
+  background-color: #f1f5f9 !important;
+  border-color: #e2e8f0 !important;
+}
+
+/* Tab buttons styling */
+#vouch-tabs button:not(.bg-\[\#12b76a\]):not(.bg-indigo-600):not(.bg-rose-600) {
+  color: #475569 !important;
+}
+#vouch-tabs button:not(.bg-\[\#12b76a\]):not(.bg-indigo-600):not(.bg-rose-600):hover {
+  color: #0f172a !important;
+  background-color: #e2e8f0 !important;
+}
+
+/* Active buttons */
+#vouch-tabs button.bg-\[\#12b76a\] {
+  background-color: #12b76a !important;
+  color: #0f172a !important;
+}
+
+/* Auth Pill */
+#vouch-auth-section > div {
+  background-color: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+}
+#vouch-auth-section p {
+  color: #334155 !important;
+}
+
+/* Global text/header colors override inside dashboard */
+#vouch-app-dashboard-container h1, 
+#vouch-app-dashboard-container h2, 
+#vouch-app-dashboard-container h3, 
+#vouch-app-dashboard-container h4, 
+#vouch-app-dashboard-container h5, 
+#vouch-app-dashboard-container h6,
+#vouch-app-dashboard-container strong {
+  color: #0f172a !important;
+}
+
+#vouch-app-dashboard-container p,
+#vouch-app-dashboard-container span:not(.text-rose-400):not(.text-rose-455):not(.text-emerald-400):not(.text-indigo-400):not(.text-[#12b76a]):not(.text-indigo-300):not(.text-amber-400):not(.text-teal-400) {
+  color: #334155 !important;
+}
+
+/* Accurate text overrides */
+.text-slate-400 { color: #64748b !important; }
+.text-slate-450 { color: #475569 !important; }
+.text-slate-500 { color: #64748b !important; }
+.text-slate-300 { color: #1e293b !important; }
+.text-slate-350 { color: #1e293b !important; }
+.text-slate-200 { color: #1e293b !important; }
+.text-slate-100 { color: #0f172a !important; }
+.text-white { color: #0f172a !important; }
+
+/* Force cards and inner sheets to white/slate-50 */
+.bg-\[\#030712\] { background-color: #ffffff !important; }
+.bg-\[\#060b18\] { background-color: #f8fafc !important; }
+.bg-\[\#060b16\] { background-color: #ffffff !important; border-color: #e2e8f0 !important; }
+.bg-\[\#030610\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#030611\] { background-color: #f1f5f9 !important; border-color: #cbd5e1 !important; }
+.bg-\[\#0a1226\] { background-color: #f1f5f9 !important; }
+.bg-\[\#080e1b\] { background-color: #ffffff !important; border-color: #e2e8f0 !important; }
+.bg-\[\#0c1228\] { background-color: #ffffff !important; border-color: #e2e8f0 !important; }
+.bg-\[\#080d19\] { background-color: #ffffff !important; border-color: #e2e8f0 !important; }
+.bg-\[\#09101d\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#070d18\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#070c18\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#040813\] { background-color: #ffffff !important; border-color: #cbd5e1 !important; }
+.bg-\[\#050914\] { background-color: #ffffff !important; border-color: #e2e8f0 !important; }
+.bg-\[\#070b16\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#0c142b\] { background-color: #ffffff !important; border-color: #e2e8f0 !important; }
+.bg-\[\#070b13\] { background-color: #ffffff !important; border-color: #e2e8f0 !important; }
+.bg-\[\#0a1122\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#050a18\] { background-color: #f1f5f9 !important; border-color: #e2e8f0 !important; }
+.bg-\[\#040816\] { background-color: #f1f5f9 !important; border-color: #e2e8f0 !important; }
+.bg-\[\#02050c\] { background-color: #ffffff !important; }
+.bg-\[\#03060c\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#030713\]\/85 { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#030714\] { background-color: #f8fafc !important; border-color: #e2e8f0 !important; }
+.bg-\[\#091024\]\/45 { background-color: #f8fafc !important; }
+
+/* Thumbs Up/Down default hover & active styles */
+.bg-slate-800 {
+  background-color: #e2e8f0 !important;
+  color: #334155 !important;
+}
+.bg-slate-800:hover {
+  background-color: #cbd5e1 !important;
+  color: #0f172a !important;
+}
+.bg-slate-900 {
+  background-color: #f1f5f9 !important;
+  color: #334155 !important;
+}
+.bg-slate-900:hover {
+  background-color: #e2e8f0 !important;
+}
+
+/* Specific green/red audit badge overrides */
+.bg-emerald-950\/70, .bg-emerald-950\/20, .bg-emerald-950\/30, .bg-emerald-955 {
+  background-color: #ecfdf5 !important;
+  color: #059669 !important;
+  border-color: #a7f3d0 !important;
+}
+.bg-rose-955, .bg-rose-950\/35, .bg-[#rose-955] {
+  background-color: #fff1f2 !important;
+  color: #e11d48 !important;
+  border-color: #fecdd3 !important;
+}
+.bg-indigo-950\/50 {
+  background-color: #e0e7ff !important;
+  color: #4f46e5 !important;
+}
+
+/* Inactive button presets reset */
+button.bg-slate-900, button[className*="bg-slate-900"] {
+  background-color: #f1f5f9 !important;
+  color: #334155 !important;
+  border-color: #cbd5e1 !important;
+}
+button.bg-slate-900:hover, button[className*="bg-slate-900"]:hover {
+  background-color: #cbd5e1 !important;
+  color: #0f172a !important;
+}
+
+/* Compare button defaults */
+button[className*="bg-\[\#03060c\]"] {
+  background-color: #f8fafc !important;
+  color: #475569 !important;
+  border-color: #cbd5e1 !important;
+}
+
+/* Global border overrides */
+#vouch-app-dashboard-container *,
+#vouch-app-dashboard-container ::before,
+#vouch-app-dashboard-container ::after {
+  border-color: #e2e8f0 !important;
+}
+
+/* Text and input boxes styling */
+textarea, input[type="text"], input[type="email"], input[type="password"], select {
+  background-color: #ffffff !important;
+  color: #1e293b !important;
+  border-color: #cbd5e1 !important;
+}
+textarea::placeholder, input::placeholder {
+  color: #94a3b8 !important;
+}
+
+/* Chat bubble overrides for server/user messages */
+.bg-\[\#0b1224\] {
+  background-color: #f1f5f9 !important;
+  color: #1e293b !important;
+  border-color: #cbd5e1 !important;
+}
+
+.bg-\[\#050914\] {
+  background-color: #ffffff !important;
+  border-color: #e2e8f0 !important;
+}
+
+/* Footer section */
+#vouch-footer {
+  background-color: #f8fafc !important;
+  border-color: #e2e8f0 !important;
+  color: #64748b !important;
+}
