@@ -20,8 +20,8 @@ st.markdown("""
 <style>
     /* Styling Streamlit app element wrappers to match our bespoke aesthetic */
     .stApp {
-        background-color: #030712;
-        color: #f3f4f6;
+        background-color:  #F0FFDF4;
+        color:  #111827;
     }
     
     /* Global Typography */
@@ -33,13 +33,13 @@ st.markdown("""
     
     /* Top Header Bar */
     .vouch-header {
-        background: linear-gradient(135deg, #091024 0%, #030712 100%);
-        padding: 2rem;
-        border-radius: 1rem;
-        border: 1px solid #1e293b;
-        margin-bottom: 2rem;
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    }
+    background: linear-gradient(135deg, #FFFFFF 0%, #F0FDF4 100%);
+    padding: 2rem;
+    border-radius: 1rem;
+    border: 1px solid #BBF7D0;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
     .vouch-logo {
         color: #12b76a;
         font-size: 2.25rem;
