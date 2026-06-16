@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+
+# Main green color for buttons and highlights
+primaryColor = "#22C55E"
+
+# Pure white page background
+backgroundColor = "#FFFFFF"
+
+# White cards/containers
+secondaryBackgroundColor = "#F8FFF9"
+
+# Dark text
+textColor = "#111827"
+
+font = "sans serif"
